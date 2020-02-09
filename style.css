@@ -1,0 +1,28 @@
+a {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  background-image: linear-gradient(to bottom right, rgba(113, 149, 62, 0.2), rgba(113, 149, 62, 1) 30%);
+  border: 1px solid darkgreen;
+  padding: 20px 20px;
+  font-family: 'Comfortaa', cursive;
+  filter: drop-shadow(5px 5px 5px grey);
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  background-image: linear-gradient(to bottom right, rgba(224, 205, 97, 0.2), rgba(224, 205, 97, 1) 30%);
+  border: 1px solid gold;
+  padding: 20px 20px;
+  font-family: 'Comfortaa', cursive;
+  filter: drop-shadow(5px 5px 5px grey);
+  text-decoration: none;
+  color: white;
+}
